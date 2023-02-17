@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: linear-gradient(rgb(0,0,0,0.6), rgb(0,0,0,0.6)), url("./assets/fondo.jpg");
+    background-position: center;
+    size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
